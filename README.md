@@ -5,6 +5,9 @@
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/pwtinject/apyh/main/main.sh && chmod +x main.sh && ./main.sh
 </code></pre>
 
+### INSTALL V 2
+<pre><code>wget --no-check-certificate https://raw.githubusercontent.com/pwtinject/apyh/main/main.sh && chmod +x main.sh && ./main.sh</code></pre>
+
 ### TESTED ON OS 
 - UBUNTU 20.04.05
 - DEBIAN 10
